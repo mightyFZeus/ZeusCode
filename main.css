@@ -1,0 +1,49 @@
+h1 {color: var(--primary-cyan); }
+p{color: var(--primary-bright-yellow); }
+.col-md-3{color: rgba(255, 255, 255, 0.5);
+ border-bottom-right-radius:10px;
+  border-bottom-left-radius: 10px;
+
+  
+}
+#invite{
+ border-radius: 5px 5px 0 0;
+background-color:#FFFFFF;
+
+ } 
+
+.signup{
+	display: block;
+  width: 100%;
+  margin-top: 3rem;
+  padding: 2px;
+  border: none;
+  border-radius: 10px;
+  background-color: var(--primary-bright-yellow);
+  font-size: 1.6rem;
+  color: #fff;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+  transition-duration: 1s;
+  cursor: pointer; }
+  .signup:hover {
+    background-color: #fff;
+    color: var(--primary-bright-yellow); }
+	
+}
+#subscription{background-color: var(--primary-cyan)}
+h4{font-weight: bold; font-size: 16px}
+#text{color: var(--light-grey)}
+:root {
+  --primary-cyan: hsl(179, 62%, 43%);
+  --primary-bright-yellow: hsl(71, 73%, 54%);
+  --light-grey: hsl(204, 43%, 93%);
+  --grayish-blue: hsl(218, 22%, 67%); }
+  body {
+  background-color: #E6EFF6;
+  font-family: "Karla", sans-serif;
+  line-height: 1.5;
+  box-sizing: border-box;
+  margin-top: 100px;
+   }
+h2{font-size: 35px
+font-weight:bolder;}
