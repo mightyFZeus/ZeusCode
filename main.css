@@ -47,3 +47,11 @@ h4{font-weight: bold; font-size: 16px}
    }
 h2{font-size: 35px
 font-weight:bolder;}
+@media  (max-width:400px){
+
+    .container {
+        height: auto;
+        width: 100%;
+        max-width: 45rem;
+        margin: 0;
+    }
